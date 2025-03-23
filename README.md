@@ -1,4 +1,4 @@
-#Fake Shop
+# Fake-shop
 # Variável de Ambiente
 DB_HOST => Host do banco de dados PostgreSQL.
 
